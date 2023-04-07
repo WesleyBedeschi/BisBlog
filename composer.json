@@ -1,0 +1,19 @@
+{
+    "name": "wesley/bisblog",
+    "description": "Criação blog para teste na bis",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": ["app/config/config.php"]
+    },
+    "authors": [
+        {
+            "name": "Wesley Bedeschi",
+            "email": "wesleybedeschi123@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.5"
+    }
+}
