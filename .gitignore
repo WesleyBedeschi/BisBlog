@@ -1,0 +1,4 @@
+/vendor
+composer.lock
+app/config/env/*
+!app/config/env/local.php
