@@ -8,6 +8,7 @@ Para utilização deste projeto se faz necessário algumas tecnologias:
 * Composer
 * Git
 
-#Confirguração
+#Configuração
 
 O arquivo fica na pasta *bisblog/app/config/config.php*
+
