@@ -14,7 +14,7 @@ class Input
      * @param  int $filter Constate com o filtro para a variável
      * @return string Retorna false se não encontrar ou o conteúdo encontrado
      */
-    public static function get(string $param, int $filter = FILTER_SANITIZE_STRING): string
+    public static function get(string $param, int $filter = FILTER_SANITIZE_SPECIAL_CHARS): string
     {
         return filter_input(INPUT_GET, $param, $filter);
     }
@@ -26,7 +26,7 @@ class Input
      * @param  int $filter Constate com o filtro para a variável
      * @return string Retorna false se não encontrar ou o conteúdo encontrado
      */
-    public static function post(string $param, int $filter = FILTER_SANITIZE_STRING): string
+    public static function post(string $param, int $filter = FILTER_SANITIZE_SPECIAL_CHARS): string
     {
         return filter_input(INPUT_POST, $param, $filter);
     }

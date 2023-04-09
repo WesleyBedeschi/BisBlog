@@ -6,7 +6,7 @@
 
             <div class="col-md-6">
                 <a href="{{BASE}}" aria-label="Logo Cyber Blog">
-                    <img src="{{BASE}}assets/image/logo/cyber-blog-logo.png" alt="Logo Cyber Blog" class="logo-topo">
+                    <img src="{{BASE}}assets/image/logo/logo.png" alt="Logo Cyber Blog" class="logo-topo">
                 </a>
             </div>
 

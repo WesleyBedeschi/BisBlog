@@ -37,7 +37,7 @@ class PostController extends Controller
             ],
             [
                 'title' => 'Como mudar de canal na sua TV',
-                'image' => 'https://satellasoft.com/img/recomendacao/ebook-aprenda-a-planejar-seus-jogos.jpg',
+                'image' => 'https://pt.pngtree.com/freepng/game-stick-logo-design_5104163.html',
                 'description' => 'Descrição do coonteúdo aquiii Descrição do coonteúdo aquiii Descrição do coonteúdo.',
                 'link'  => 'como-mudar-de-canal'
             ]
@@ -74,14 +74,14 @@ class PostController extends Controller
                 'link'  => 'como-trocar-de-celular'
             ],
             [
-                'title' => 'Aprenda a trocar de celular',
+                'title' => 'Criar um blog',
                 'image' => null,
                 'description' => 'Descrição do coonteúdo aquiii Descrição do coonteúdo aquiii Descrição do coonteúdo.',
                 'link'  => 'como-trocar-de-celular'
             ],
             [
                 'title' => 'Como mudar de canal na sua TV',
-                'image' => 'https://satellasoft.com/img/recomendacao/ebook-aprenda-a-planejar-seus-jogos.jpg',
+                'image' => 'https://pt.pngtree.com/freepng/video-game-controller-illustration_4571692.html',
                 'description' => 'Descrição do coonteúdo aquiii Descrição do coonteúdo aquiii Descrição do coonteúdo.',
                 'link'  => 'como-mudar-de-canal'
             ]
